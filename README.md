@@ -1,2 +1,2 @@
-# Multi-class-Classification-and-Neural-Networks
-Multi-class Classification and Neural Networks machine learning andrew ng
+# Multi-class-Classification
+Multi-class Classification  machine learning andrew ng
